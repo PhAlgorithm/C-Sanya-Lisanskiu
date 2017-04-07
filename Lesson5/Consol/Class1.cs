@@ -11,21 +11,26 @@ namespace Consol
     {
         static void Main(string[] args)
         {
-            Shape shape = new Shape();
-            shape.Drow();
+            var shape = new Shape(5,6);
 
-            Shape shape1 = new Shape(4,6);
-            shape1.Drow();
+            Console.WriteLine(shape);
 
-            //Triangle trin = new Triangle();
-            //trin.Drow();
-            var triangle = new Triangle();
-            triangle.Drow();
-            var SD = new Shape(1,9,Color.Blue);
-            SD.Drow();
-            Console.ReadKey();
-            triangle.A = 9;
-            var a = triangle.A;
+            //Shape shape = new Shape();
+            //shape.Drow();
+
+            //Shape shape1 = new Shape(4,6);
+            //shape1.Drow();
+
+            ////Triangle trin = new Triangle();
+            ////trin.Drow();
+            //var triangle = new Triangle();
+            //triangle.Drow();
+            //var SD = new Shape(1,9,Color.Blue);
+            //SD.Drow();
+            //Console.ReadKey();
+            //triangle.A = 9;
+            //var a = triangle.A;
+            
         }
         
 
