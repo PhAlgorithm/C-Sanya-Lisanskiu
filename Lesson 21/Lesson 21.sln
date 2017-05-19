@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 21", "Lesson 21\Lesson 21.csproj", "{4928BD48-1A0B-438E-8C74-91B5108BB5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflactionTest", "ReflactionTest\ReflactionTest.csproj", "{05A70441-9B43-435B-9028-3D0B2578E6FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4928BD48-1A0B-438E-8C74-91B5108BB5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4928BD48-1A0B-438E-8C74-91B5108BB5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4928BD48-1A0B-438E-8C74-91B5108BB5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4928BD48-1A0B-438E-8C74-91B5108BB5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A70441-9B43-435B-9028-3D0B2578E6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A70441-9B43-435B-9028-3D0B2578E6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A70441-9B43-435B-9028-3D0B2578E6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A70441-9B43-435B-9028-3D0B2578E6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
